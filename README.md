@@ -17,3 +17,8 @@ Fully adjustable to suit your specific desires.
 - 2 fat stem versions, again 1 with a center depression.
 
 free for non commerical use.
+
+
+https://www.printables.com/@AdamMead_323502/models
+
+https://github.com/amead77/SCAD-tassimo_tamper

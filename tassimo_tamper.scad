@@ -2,7 +2,7 @@
 Coffee tamper for reuable coffee pods
 2023 Adam Mead
 https://www.printables.com/@AdamMead_323502/models
-https://github.com/amead77
+https://github.com/amead77/SCAD-tassimo_tamper
 */
 
 //leave this as 1
